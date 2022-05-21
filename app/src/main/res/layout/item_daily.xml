@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--10 Mei 2022-->
+<!--10119175-->
+<!--Mochamad Galih Prasetya-->
+<!--IF-5-->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:paddingLeft="26dp"
+    android:paddingRight="26dp"
+    android:background="@drawable/rounded_background_daily"
+    android:layout_marginBottom="10dp">
+
+    <ImageView
+        android:id="@+id/img_daily"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_marginRight="16dp"
+        android:layout_gravity="center"
+        android:src="@drawable/ic_baseline_queue_music_24"
+        app:tint="@color/primaryColor" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/title_daily"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textStyle="bold"
+            android:textSize="16sp"/>
+        <TextView
+            android:id="@+id/desc_daily"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="detail"
+            android:textColor="@color/black"
+            android:textSize="14dp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

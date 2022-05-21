@@ -1,0 +1,19 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/backgroundSecondColor" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+
+    <item
+        android:bottom="6dp"
+        android:left="6dp"
+        android:right="6dp"
+        android:top="0dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/backgroundMainColor" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+</layer-list>
