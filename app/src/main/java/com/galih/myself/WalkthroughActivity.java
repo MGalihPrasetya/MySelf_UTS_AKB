@@ -67,18 +67,18 @@ public class WalkthroughActivity extends AppCompatActivity {
         List<WalkthroughData> walkthroughModels = new ArrayList<>();
 
         WalkthroughData itemWalkthrough1 = new WalkthroughData();
-        itemWalkthrough1.setTitle("Halo!");
-        itemWalkthrough1.setSubtitle("Selamat datang di MySelf-AKB");
+        itemWalkthrough1.setTitle("Hello!");
+        itemWalkthrough1.setSubtitle("Welcome to Myself Is Galih");
         itemWalkthrough1.setImage(R.drawable.walkthrough1);
 
         WalkthroughData itemWalkthrough2 = new WalkthroughData();
-        itemWalkthrough2.setTitle("Profil, Kegiatan, Galeri, Musik & Video");
-        itemWalkthrough2.setSubtitle("Kamu dapat menemukan profil, kegiatan sehari-hari, galeri foto, musik, dan video favoritku di sini.");
+        itemWalkthrough2.setTitle("Profile, Activity, Gallery, Music & Video");
+        itemWalkthrough2.setSubtitle("You can find my profile, my daily activity, my gallery, my music, and my video of interest here!");
         itemWalkthrough2.setImage(R.drawable.walkthrough2);
 
         WalkthroughData itemWalkthrough3 = new WalkthroughData();
-        itemWalkthrough3.setTitle("Silahkan masuk :)");
-        itemWalkthrough3.setSubtitle("Kamu juga bisa menyapa saya melalui salah satu sosial media yang tercantum.");
+        itemWalkthrough3.setTitle("Let's Go!");
+        itemWalkthrough3.setSubtitle("You also can contact me through all of my social media listed here.");
         itemWalkthrough3.setImage(R.drawable.walkthrough3);
 
         walkthroughModels.add(itemWalkthrough1);

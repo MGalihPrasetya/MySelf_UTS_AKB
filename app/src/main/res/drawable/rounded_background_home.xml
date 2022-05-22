@@ -24,7 +24,7 @@
                 android:left="10dp"
                 >
             </padding>
-            <solid android:color="@color/secondaryColor"/>
+            <solid android:color="@color/teal_200"/>
             <corners android:radius="10dp" />
         </shape>
     </item>

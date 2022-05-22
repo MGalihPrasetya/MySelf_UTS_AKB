@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!--10 Mei 2022-->
-<!--10119197-->
-<!--Mochamad Nurkhayal Kadafi-->
+<!--10119175-->
+<!--Mochamad Galih Prasetya-->
 <!--IF-5-->
 
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
@@ -14,31 +14,31 @@
 
     <fragment
         android:id="@+id/navigation_daily"
-        android:name="com.mnkadafi.myself_akb.ui.DailyFragment"
+        android:name="com.galih.myself.DailyFragment"
         android:label="@string/title_daily"
         tools:layout="@layout/fragment_daily" />
 
     <fragment
         android:id="@+id/navigation_gallery"
-        android:name="com.mnkadafi.myself_akb.ui.GalleryFragment"
+        android:name="com.galih.myself.GalleryFragment"
         android:label="@string/title_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.mnkadafi.myself_akb.ui.HomeFragment"
+        android:name="com.galih.myself.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_music_video"
-        android:name="com.mnkadafi.myself_akb.ui.MusicVideoFragment"
+        android:name="com.galih.myself.MusicVideoFragment"
         android:label="@string/title_music_video"
         tools:layout="@layout/fragment_video_music" />
 
     <fragment
         android:id="@+id/navigation_profile"
-        android:name="com.mnkadafi.myself_akb.ui.ProfileFragment"
+        android:name="com.galih.myself.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>

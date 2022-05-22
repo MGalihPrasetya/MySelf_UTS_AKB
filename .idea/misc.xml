@@ -4,11 +4,17 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/drawable/bottom_navigation_selector.xml" value="0.1795" />
-        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/activity_main.xml" value="0.22056159420289856" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/drawable/rounded_background_daily.xml" value="0.1795" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/drawable/rounded_background_home.xml" value="0.1795" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/activity_main.xml" value="0.4" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/activity_splashscreen.xml" value="0.22056159420289856" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/activity_walkthrough.xml" value="0.22056159420289856" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/activity_walkthrough_adapter.xml" value="0.22056159420289856" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/fragment_daily.xml" value="0.22056159420289856" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/fragment_gallery.xml" value="0.22056159420289856" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/fragment_home.xml" value="0.27844311377245506" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/fragment_video_music.xml" value="0.4" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/item_container_walkthrough.xml" value="0.22056159420289856" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/item_daily.xml" value="0.22056159420289856" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/item_dialogue_about.xml" value="0.22056159420289856" />
@@ -16,6 +22,7 @@
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/item_gallery.xml" value="0.22056159420289856" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/layout/item_music.xml" value="0.22056159420289856" />
         <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25" />
+        <entry key="..\:/Project/MK_AKB/MySelf/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
