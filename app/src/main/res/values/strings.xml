@@ -1,3 +1,7 @@
+<!--10 Mei 2022-->
+<!--10119175-->
+<!--Mochamad Galih Prasetya-->
+<!--IF-5-->
 <resources>
     <string name="app_name">MySelf Is Galih</string>
     <string name="title_home">Home</string>
@@ -9,7 +13,7 @@
     <!-- TODO: Remove or change this placeholder text -->
     <string name="title_daily">Daily</string>
     <string name="title_gallery">Gallery</string>
-    <string name="title_music_video">Music</string>
+    <string name="title_music_video">Media</string>
 
     <string name="nim">10119175</string>
     <string name="age">21</string>
@@ -19,7 +23,7 @@
     <string name="title_interest">Interest</string>
     <string name="full_name">Mochamad Galih Prasetya</string>
     <string name="title_aboutme">About Me</string>
-    <string name="aboutme">Game Develop Enthusiasm \nFrom Kabupaten Bogor \ninterest in developing game application and playing game</string>
+    <string name="aboutme">Game Design Enthusiasm \nFrom Kabupaten Bogor \nInterest in developing and playing game</string>
     <string name="title_contactme">Contact Me</string>
     <string name="about">About</string>
     <string name="title_profile">Profile</string>

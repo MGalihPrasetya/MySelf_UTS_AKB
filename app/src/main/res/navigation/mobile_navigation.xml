@@ -14,31 +14,31 @@
 
     <fragment
         android:id="@+id/navigation_daily"
-        android:name="com.galih.myself.DailyFragment"
+        android:name="com.galih.myself.ui.DailyFragment"
         android:label="@string/title_daily"
         tools:layout="@layout/fragment_daily" />
 
     <fragment
         android:id="@+id/navigation_gallery"
-        android:name="com.galih.myself.GalleryFragment"
+        android:name="com.galih.myself.ui.GalleryFragment"
         android:label="@string/title_gallery"
         tools:layout="@layout/fragment_gallery" />
 
     <fragment
         android:id="@+id/navigation_home"
-        android:name="com.galih.myself.HomeFragment"
+        android:name="com.galih.myself.ui.HomeFragment"
         android:label="@string/title_home"
         tools:layout="@layout/fragment_home" />
 
     <fragment
         android:id="@+id/navigation_music_video"
-        android:name="com.galih.myself.MusicVideoFragment"
+        android:name="com.galih.myself.ui.MusicVideoFragment"
         android:label="@string/title_music_video"
         tools:layout="@layout/fragment_video_music" />
 
     <fragment
         android:id="@+id/navigation_profile"
-        android:name="com.galih.myself.ProfileFragment"
+        android:name="com.galih.myself.ui.ProfileFragment"
         android:label="@string/title_profile"
         tools:layout="@layout/fragment_profile" />
 </navigation>
